@@ -69,9 +69,8 @@ Step 1: Install Ollama Models
 ollama pull llama3.2
 ollama pull nomic-embed-text
 
-Step 2: Clone the Repository
-git clone https://github.com/Ashmith7542/AI-Powered-Document-Question-Answering-System.git
-cd AI-Powered-Document-Question-Answering-System
+step 2: clone the project
+
 
 Step 3: Create Virtual Environment
 python -m venv venv
@@ -122,10 +121,7 @@ Role-based user access
 
 👨‍💻 Author
 
-Ashmith Hamilpure,
-Komarraju Shivasai,
-Porandla Sreeja,
-Drona Madhuri Dadi.
+AKHIL JATOTHU
 
 Final Year Academic Project
 AI-Powered Document Question Answering System
